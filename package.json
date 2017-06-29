@@ -1,0 +1,23 @@
+{
+  "name": "pavlism-logger",
+  "version": "1.0.0",
+  "description": "simple logger",
+  "main": "mrp-logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlism/mrp-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "mrp"
+  ],
+  "author": "Mark PAvlis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavlism/mrp-logger/issues"
+  },
+  "homepage": "https://github.com/pavlism/mrp-logger#readme"
+}
