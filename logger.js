@@ -61,5 +61,7 @@ Logger.level = {
     warnOnly : 8,
     off : 9,
 };
+if(typeof require !== 'undefined'){
+    module.exports = Logger;
+}
 
-module.exports = Logger;
