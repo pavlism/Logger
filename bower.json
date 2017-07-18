@@ -1,0 +1,21 @@
+{
+  "name": "pavlism-logger",
+  "description": "simple logger",
+  "main": "mrp-logger.js",
+  "authors": [
+    "Mark PAvlis"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "logger",
+    "mrp"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
